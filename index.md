@@ -27,8 +27,23 @@
 ## Материалы прошедших семинаров:
 [https://www.youtube.com/siberai](https://www.youtube.com/siberai)
 
-AGI как технология формального моделирования объективной реальности — Евгений Витяев 
+22 июля 2021 - AGI как технология формального моделирования объективной реальности — Евгений Витяев 
 <iframe width="320" height="266" src="https://www.youtube.com/embed/sKbXEPbaUSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+15 июля 2021 - Нужны ли структурированные знания AGI и/или его пользователям и если — да, то — как их извлекать? AGI MVP — Универсальный извлекатель знаний (построитель грамматик и онтологий) — Антон Колонин, Николай Рабчевский, Александр Болдачев
+<iframe width="320" height="266" src="https://www.youtube.com/embed/NJMN9AnpoqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+8 июля 2021 - NARS — система неаксиоматического логического вывода, докладчик — Юрий Колонин
+<iframe width="320" height="266" src="https://www.youtube.com/embed/PKz7_7SaJIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1 июля 2021 - Мышление. Естественное и искусственное — Александр Болдачев
+<iframe width="320" height="266" src="https://www.youtube.com/embed/EQ0yxVXS0DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+24 июня 2021 - Биологическая и социальная компоненты в развитии интеллекта — Круглый стол — Владимир Смолин, Юрий Аникин, Антон Колонин
+<iframe width="320" height="266" src="https://www.youtube.com/embed/sNu0OUfzna0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+17 июня 2021 - Нужен ли Общий Интеллект (GI) эритроциту? — Игорь Пивоваров
+<iframe width="320" height="266" src="https://www.youtube.com/embed/SBil65U9WbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 10 июня 2021 - МVP для AGI — что это? Эпизод 2 — Построитель грамматик и онтологий, Манипулятор пультами, Виртуальный попугай, Универсальный торговый бот — Антон Колонин и Виктор Артюхов
 <iframe width="320" height="266" src="https://www.youtube.com/embed/0_zMhAHzs_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
