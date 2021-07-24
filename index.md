@@ -23,15 +23,15 @@
 - [Виктор Артюхов - AGI for All](https://zen.yandex.ru/livebaster)
 - [Олег Серебренников - Иерархическая Память Последовательностей](http://intellecture.ai/)
 
-### Наш спонсоры: 
-- [https://aigents.com](https://aigents.com)
-- [https://singularitynet.io](https://singularitynet.io)
 
 ## Материалы прошедших семинаров:
 
 [https://www.youtube.com/siberai](https://www.youtube.com/siberai)
 
-TODO
+### Наши спонсоры: 
+- [https://aigents.com](https://aigents.com)
+- [https://singularitynet.io](https://singularitynet.io)
+
 
 
 
