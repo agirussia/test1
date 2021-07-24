@@ -18,7 +18,7 @@
 ## Проекты участников:
 - [Антон Колонин, Aigents® - Персональные интеллектуальные агенты для Интернета](https://github.com/aigents/)
 - [Дмитрий Салихов - Обучаем интеллектуального агента говорить с нуля](https://github.com/BelowzeroA/artificial-thinking)
-= [Дмитрий Салихов - Методология тестирования AGI](https://agileaderboard.com/)
+- [Дмитрий Салихов - Методология тестирования AGI](https://agileaderboard.com/)
 - [Николай Рабчевский - AGI fundamentals, architecture, implementation, source code](https://agieng.substack.com/)
 - [Виктор Артюхов - AGI for All](https://zen.yandex.ru/livebaster)
 - [Олег Серебренников - Иерархическая Память Последовательностей](http://intellecture.ai/)
